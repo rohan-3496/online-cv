@@ -10,44 +10,30 @@ sidebar:
     
     # Profile information
     name: Rohan Kumar
-    tagline: Full Stack Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Associate Analyst, MasterCard Advisors
+    pic: IMG_9055.jpg   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
-
-    languages:
-        - language:
-          idiom: English
-          level: Native
-        - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
+    email: k.rohan3496@gmail.com
+    phone: 9004518616
+    phone: 7290920978
+    #website: blog.webjeda.com #do not add http://
+    linkedin: krohan3496
+    #github: sharu725
+    #twitter: '@webjeda'
         
     interests:
         - interest:
-          item: Climbing
+          item: Reading
           link:
         - interest:
-          item: Snowboarding
+          item: Quora
           link:
         - interest:
-          item: Cooking
+          item: Music
           link:
 
-        
-
-
-
-
+       
 career-profile: 
     title: Career Profile
     text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
