@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: My Resume
     url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Rohan Kumar
@@ -41,22 +41,13 @@ career-profile:
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: B. Tech.
+      university: IIT Bombau
+      time: 2014 - 18
+      details: "Bachelor of Technology with Honors in Chemical Engineering
+                Awarded Department Citation"
 
-    - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+
 
 
 projects:
